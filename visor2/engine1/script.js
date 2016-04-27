@@ -18,4 +18,4 @@ jQuery.extend(jQuery.easing,{easeInOutSine:function(j,i,b,c,d){return -c/2*(Math
 // Obfuscated by Javascript Obfuscator
 // http://javascript-source.com
 //***********************************************
-jQuery("#wowslider-container1").wowSlider({effect:"domino",prev:"",next:"",duration:19*100,delay:20*100,width:960,height:360,autoPlay:true,playPause:true,stopOnHover:false,loop:false,bullets:true,caption:false,captionEffect:"slide",controls:false,onBeforeStep:0,images:0});
+jQuery("#wowslider-container1").wowSlider({effect:"domino",prev:"",next:"",duration:20*100,delay:20*100,width:830,height:360,autoPlay:true,playPause:true,stopOnHover:false,loop:false,bullets:true,caption:false,captionEffect:"slide",controls:false,onBeforeStep:0,images:0});
